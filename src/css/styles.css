@@ -183,7 +183,7 @@ button:disabled {
 
 .load-more-btn {
   display: none;
-  opacity: 0;
+  opacity: 1;
   border-radius: 10px;
   border: none;
   background-color: #4e75ff;
